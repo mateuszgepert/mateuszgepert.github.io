@@ -1,18 +1,19 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-url:                "https://startbootstrap.github.io"
+title:              make IT work
+email:              mateusz@gepert.info
+description:        Technical, philosophical, nostalgic not always about jvm
+author:             Mateusz Gepert
+url:                "https://mateuszgepert.github.io"
+future:             true
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+twitter_username:
+github_username:    mateuszgepert
+facebook_username:
+instagram_username:
+linkedin_username: mateusz-gepert
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+#google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
